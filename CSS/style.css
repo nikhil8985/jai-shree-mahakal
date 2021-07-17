@@ -1,0 +1,12 @@
+body{
+  background-color: #F7A440
+}
+h1:hover{ color: #492F10 ;font-size: 50px; font-variant: small-caps;background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgba(255, 255, 0, 0.5)),
+                  url("../../media/examples/lizard.png");
+                background-color: blue;}
+p{background-color:#FFC947; }
+.secondrow{background-color: #FFC107;}
+/*.circular{
+  border-radius: 100%;
+}
+*/
